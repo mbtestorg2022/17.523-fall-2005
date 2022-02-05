@@ -19,8 +19,45 @@ Course Requirements
 
 Regular attendance, completion of all reading assignments, and consistent class participation are required of all students. Written requirements include two (5-7 page), double spaced analytic essays and one final (7-10 page) essay. Topics for essays will be distributed by the instructor. Final grades will be determined as follows:
 
-| Activities | percentages |
-| --- | --- |
-| Class and Participation | 20% |
-| Two Essays | 50% |
-| Final Paper | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Essays
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
